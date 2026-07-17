@@ -5,8 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0027-remove-element) |
+| [0503-next-greater-element-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0503-next-greater-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0027-remove-element) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
