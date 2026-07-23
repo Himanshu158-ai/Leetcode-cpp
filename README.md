@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
