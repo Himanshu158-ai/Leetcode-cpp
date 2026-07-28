@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0046-permutations) |
 | [0503-next-greater-element-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0739-daily-temperatures) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -59,4 +60,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
