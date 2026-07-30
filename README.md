@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0022-generate-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0022-generate-parentheses) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Linked List
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
