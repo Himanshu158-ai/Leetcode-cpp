@@ -28,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1189-maximum-number-of-balloons](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0022-generate-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0046-permutations) |
