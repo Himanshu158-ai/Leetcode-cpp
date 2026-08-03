@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0050-powx-n) |
 ## Backtracking
 |  |
