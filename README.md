@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -74,4 +75,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0052-n-queens-ii) |
 | [0131-palindrome-partitioning](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0131-palindrome-partitioning) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
