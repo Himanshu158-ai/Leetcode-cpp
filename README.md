@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0131-palindrome-partitioning) |
 | [1189-maximum-number-of-balloons](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1189-maximum-number-of-balloons) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0050-powx-n) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0052-n-queens-ii) |
 | [0131-palindrome-partitioning](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0131-palindrome-partitioning) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
 | ------- |
@@ -150,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
