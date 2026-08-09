@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0051-n-queens) |
 | [0503-next-greater-element-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0739-daily-temperatures) |
+| [1140-stone-game-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [3731-find-missing-elements](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0131-palindrome-partitioning) |
+| [1140-stone-game-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Linked List
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0050-powx-n) |
+| [1140-stone-game-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1140-stone-game-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
@@ -174,4 +177,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
