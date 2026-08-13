@@ -12,47 +12,69 @@
 class Solution {
 public:
 
-    bool fun(queue<TreeNode*> &que){
+    // bool fun(queue<TreeNode*> &que){
         
-        if(que.empty()) return true;
+    //     if(que.empty()) return true;
         
-        int size = que.size();
+    //     int size = que.size();
 
-        while(size){
-            TreeNode * node = que.front();
+    //     while(size){
+    //         TreeNode * node = que.front();
+    //         que.pop();
+
+
+    //         if(!node){
+    //             while(!que.empty()){
+    //                 if(que.front()!=NULL) return false;
+    //                 que.pop();
+    //             }
+    //             return true;
+    //         }
+
+    //         if(node->left) que.push(node->left);
+    //         else que.push(NULL);
+
+    //         if(node->right) que.push(node->right);
+    //         else que.push(NULL);
+
+    //         size--;
+    //     }
+    //     if(!fun(que)) return false;
+
+    //     return true;
+
+
+    // }
+    
+    bool isCompleteTree(TreeNode* root) {
+        queue<TreeNode*> que;
+        que.push(root);
+        bool is_null = false;
+
+        // recursive approach
+        // return fun(que);
+
+
+
+        while(!que.empty()){
+            TreeNode* node = que.front();
             que.pop();
 
+            if(node && is_null) return false;
 
-            if(!node){
-                while(!que.empty()){
-                    if(que.front()!=NULL) return false;
-                    que.pop();
-                }
-                return true;
+            if(!node) {
+                is_null = true;
+                continue;
             }
-            // if(!node->left && !node->right){
-            //     size--;
-            //     continue;
-            // };
+
 
             if(node->left) que.push(node->left);
             else que.push(NULL);
 
             if(node->right) que.push(node->right);
             else que.push(NULL);
-
-            size--;
         }
-        if(!fun(que)) return false;
-
         return true;
 
-
-    }
-    
-    bool isCompleteTree(TreeNode* root) {
-        queue<TreeNode*> que;
-        que.push(root);
-        return fun(que);
     }
 };
