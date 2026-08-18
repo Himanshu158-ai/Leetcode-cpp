@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [2029-stone-game-ix](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/2029-stone-game-ix) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1189-maximum-number-of-balloons](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1189-maximum-number-of-balloons) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3731-find-missing-elements) |
 ## String
 |  |
