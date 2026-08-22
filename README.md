@@ -75,17 +75,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0092-reverse-linked-list-ii) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0050-powx-n) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0050-powx-n) |
 | [1140-stone-game-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1140-stone-game-ii) |
