@@ -1,82 +1,32 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* t1 = l1;
-        ListNode* t2 = l2;
-        int carry = 0;
+
         ListNode* ans = new ListNode(0);
         ListNode* temp = ans;
 
-        while(t1 && t2){
-            int val = t1->val+t2->val;
-            if(carry==1){
-                val++;
-                carry = 0;
-            }
-            if(val>9){
-                val =  val%10;
-                carry = 1;
-            }
+        int carry = 0;
 
-            ListNode* v = new ListNode(val);
-            temp->next = v;
-            temp = temp->next;
-            t1=t1->next;
-            t2=t2->next;
-        }
+        while (l1 || l2 || carry) {
 
-        while(t1){
-            int val = t1->val;
-            if(carry==1){
-                val++;
-                carry=0;
-            }
-            if(val>9){
-                val =  val%10;
-                carry = 1;
+            int sum = carry;
+
+            if (l1) {
+                sum += l1->val;
+                l1 = l1->next;
             }
 
-            ListNode* v = new ListNode(val);
-            temp->next = v;
-            temp = temp->next;
-            t1=t1->next;
-        }
-
-         while(t2){
-            int val = t2->val;
-            if(carry==1){
-                val++;
-                carry=0;
-            }
-            if(val>9){
-                val =  val%10;
-                carry = 1;
+            if (l2) {
+                sum += l2->val;
+                l2 = l2->next;
             }
 
-            ListNode* v = new ListNode(val);
-            temp->next = v;
-            temp = temp->next;
-            t2=t2->next;
-        }
+            carry = sum / 10;
 
-        if(carry==1){
-            ListNode* v = new ListNode(1);
-            temp->next = v;
+            temp->next = new ListNode(sum % 10);
             temp = temp->next;
         }
-
 
         return ans->next;
-
     }
 };
