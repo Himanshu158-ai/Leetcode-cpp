@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0131-palindrome-partitioning) |
+| [0392-is-subsequence](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0392-is-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1189-maximum-number-of-balloons) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0131-palindrome-partitioning) |
+| [0392-is-subsequence](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0392-is-subsequence) |
 | [1140-stone-game-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
