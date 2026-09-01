@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0189-rotate-array) |
 | [0503-next-greater-element-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0739-daily-temperatures) |
 | [1140-stone-game-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1140-stone-game-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0189-rotate-array) |
 | [1140-stone-game-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3345-smallest-divisible-digit-product-i) |
