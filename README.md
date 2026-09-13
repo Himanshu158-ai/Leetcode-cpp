@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2029-stone-game-ix](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/2029-stone-game-ix) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3875-construct-uniform-parity-array-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1768-merge-strings-alternately) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1189-maximum-number-of-balloons) |
 | [1386-cinema-seat-allocation](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3731-find-missing-elements) |
 ## String
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0169-majority-element) |
 | [0881-boats-to-save-people](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3731-find-missing-elements](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3731-find-missing-elements) |
 ## Graph Theory
 |  |
