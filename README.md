@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1386-cinema-seat-allocation](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1386-cinema-seat-allocation) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2029-stone-game-ix](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3731-find-missing-elements) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0881-boats-to-save-people](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0881-boats-to-save-people) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1189-maximum-number-of-balloons](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1189-maximum-number-of-balloons) |
 | [1386-cinema-seat-allocation](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1386-cinema-seat-allocation) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3731-find-missing-elements) |
 ## String
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0169-majority-element) |
 | [0881-boats-to-save-people](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0881-boats-to-save-people) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3731-find-missing-elements) |
 ## Graph Theory
 |  |
