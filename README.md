@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2029-stone-game-ix](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/2029-stone-game-ix) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3731-find-missing-elements) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1189-maximum-number-of-balloons) |
 | [1386-cinema-seat-allocation](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/3731-find-missing-elements) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
