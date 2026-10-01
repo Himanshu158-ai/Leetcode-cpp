@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0217-contains-duplicate) |
 | [0503-next-greater-element-ii](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0881-boats-to-save-people) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0290-word-pattern) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1189-maximum-number-of-balloons](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1189-maximum-number-of-balloons) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0217-contains-duplicate) |
 | [0881-boats-to-save-people](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/2491-divide-players-into-teams-of-equal-skill) |
