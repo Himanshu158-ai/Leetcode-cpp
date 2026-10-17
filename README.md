@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0097-interleaving-string) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0025-reverse-nodes-in-k-group) |
