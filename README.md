@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0031-next-permutation) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Himanshu158-ai/Leetcode-cpp/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
